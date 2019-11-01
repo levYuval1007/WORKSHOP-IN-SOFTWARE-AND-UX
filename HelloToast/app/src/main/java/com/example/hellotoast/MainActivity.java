@@ -1,5 +1,6 @@
 package com.example.hellotoast;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
@@ -17,6 +18,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         mShowCount = (TextView)findViewById(R.id.show_count);
+        if (savedInstanceState!=null){
+            mShowCount.setText(savedInstanceState.getString("num"));
+            mCount = Integer.parseInt(savedInstanceState.getString("num"));
+        }
     }
 
     public void showToast(View view) {
@@ -29,5 +34,11 @@ public class MainActivity extends AppCompatActivity {
         mCount++;
         if (mShowCount != null)
             mShowCount.setText(Integer.toString(mCount));
+    }
+
+    @Override
+    protected void onSaveInstanceState(Bundle outState) {
+        super.onSaveInstanceState(outState);
+        outState.putString("num",(String)mShowCount.getText());
     }
 }
