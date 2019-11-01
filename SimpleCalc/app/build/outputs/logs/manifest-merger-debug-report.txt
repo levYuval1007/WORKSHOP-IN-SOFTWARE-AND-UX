@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7047a88d1250a37122fc813078b115ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\44275587a9c7b2ab4508a8f0b74a7530\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4bc5ab9cdd666f30a92ea4cb84701ccc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\28a1f4c9c4f47770501772ced7bd2f4f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7d86ad9820b7f724980a497f7ce94aff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\034283d71443574e0b5c75a9c772d672\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\37b0df29bc3845b2bedcccba675b451e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d66a4d3c3e540c6c745637597188f3da\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f4dfbcd512326566beb6d58b0446f7ed\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5094395dc958a8fc8c444d46dc765de9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c4e6a497ad43e839a8c597f8c49fe95a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+	package
+		ADDED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml:18:5-45
+		INJECTED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+		INJECTED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+		INJECTED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml:20:5-32:19
+	android:supportsRtl
+		ADDED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml:25:9-40
+activity#com.example.android.SimpleCalc.MainActivity
+ADDED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml:26:9-31:20
+	android:name
+		ADDED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml:26:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7047a88d1250a37122fc813078b115ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7047a88d1250a37122fc813078b115ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\44275587a9c7b2ab4508a8f0b74a7530\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\44275587a9c7b2ab4508a8f0b74a7530\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4bc5ab9cdd666f30a92ea4cb84701ccc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4bc5ab9cdd666f30a92ea4cb84701ccc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\28a1f4c9c4f47770501772ced7bd2f4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\28a1f4c9c4f47770501772ced7bd2f4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7d86ad9820b7f724980a497f7ce94aff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7d86ad9820b7f724980a497f7ce94aff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\034283d71443574e0b5c75a9c772d672\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\034283d71443574e0b5c75a9c772d672\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\37b0df29bc3845b2bedcccba675b451e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\37b0df29bc3845b2bedcccba675b451e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d66a4d3c3e540c6c745637597188f3da\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d66a4d3c3e540c6c745637597188f3da\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f4dfbcd512326566beb6d58b0446f7ed\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f4dfbcd512326566beb6d58b0446f7ed\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5094395dc958a8fc8c444d46dc765de9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5094395dc958a8fc8c444d46dc765de9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c4e6a497ad43e839a8c597f8c49fe95a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Yuval\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c4e6a497ad43e839a8c597f8c49fe95a\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yuval\thirdYear\Workshop_In_SW_UX\WORKSHOP-IN-SOFTWARE-AND-UX\SimpleCalc\app\src\main\AndroidManifest.xml
